@@ -49,3 +49,20 @@
     margin:  25px;
     cursor: pointer;
   }
+  @media (max-width: 768px) {
+    .cartItem{
+    align-items: center;
+    border-radius: 25px;
+    box-shadow: 0 3px 15px rgb(0 0 0 / 20%);
+    display: flex;
+    height: 257px;
+    margin-top: 12px;
+  
+    width: 306px;
+  }
+  .checkout{
+    margin-left: 0;
+  }
+  
+
+}
