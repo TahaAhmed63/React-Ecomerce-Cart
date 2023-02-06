@@ -51,6 +51,7 @@
   }
   @media (max-width: 768px) {
     .cartItem{
+      margin: 0;
     align-items: center;
     border-radius: 25px;
     box-shadow: 0 3px 15px rgb(0 0 0 / 20%);
@@ -63,6 +64,6 @@
   .checkout{
     margin-left: 0;
   }
-  
+
 
 }
